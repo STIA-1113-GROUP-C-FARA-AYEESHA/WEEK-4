@@ -1,0 +1,17 @@
+Enter number of items: 
+3
+Enter price: 
+20
+Enter quantity: 
+4
+Enter price: 
+14
+Enter quantity: 
+2
+Enter price: 
+90
+Enter quantity: 
+3
+Total price is: 378.0
+The discount received is: 75.6
+Price after discount is: 302.4
